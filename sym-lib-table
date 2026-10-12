@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "solo leveling") (type "KiCad") (uri "C:/Users/yarkz/Downloads/solo leveling.kicad_sym") (options "") (descr ""))
+	(lib (name "gojo") (type "KiCad") (uri "C:/Users/yarkz/Downloads/gojo.kicad_sym") (options "") (descr ""))
+)
