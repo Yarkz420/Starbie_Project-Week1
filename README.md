@@ -1,0 +1,1 @@
+Hello, this is my project after completing week 1 of halflife. <img width="792" height="777" alt="PCB_thumbnail" src="https://github.com/user-attachments/assets/dcf3dd94-a94b-4725-adfd-9c1adcbddaf8" />
